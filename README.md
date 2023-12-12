@@ -61,14 +61,21 @@
   <tbody>
     <tr>
       <td rowspan="2">1주차</td>
-      <td rowspan="2">23.11.28 ~ 23.12.05</td>
+      <td rowspan="2">23.12.01 ~ 23.12.08</td>
       <td>모든 개발자를 위한 HTTP 웹 기본 지식</td>
       <td>섹션 1 ~ 섹션 8</td>
-      <td rowspan="2"></td>
+      <td rowspan="2">✔</td>
     </tr>
     <tr>
       <td align="center">김영한의 스프링 핵심 원리 - 기본편</td>
       <td>섹션 1 ~ 섹션 2</td>
+    </tr>
+    <tr>
+      <td>2주차</td>
+      <td>23.12.09 ~ 23.12.15</td>
+      <td align="center">김영한의 스프링 핵심 원리 - 기본편</td>
+      <td>섹션 3 ~ 섹션 5</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
